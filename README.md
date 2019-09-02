@@ -9,4 +9,8 @@ https://www.sigbus.info/compilerbook
 
 
 // memo
-gcc.c →gcc →tmp.s →tmp
+gcc.c (1)→gcc (2)→tmp.s (3)→tmp
+
+(1) make
+(2) make test
+(3) make test
